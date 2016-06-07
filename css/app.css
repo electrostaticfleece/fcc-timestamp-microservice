@@ -1,0 +1,64 @@
+body {
+    background-color: #ecf0f1;
+    margin: 0;
+}
+
+h1, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #3498db;
+    margin-bottom: 5%;
+}
+
+h3 {
+    color: #34495e;
+}
+
+p, li {
+    font-family: 'EB Garamond', serif;
+    font-size: 1em;
+}
+
+li {
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+}
+
+.bodyText {
+    position: absolute;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2.5%;
+}
+
+.quote {
+    background-color: white;
+    border-radius: 10px;
+    border: 0px white;
+    display: block;
+    position: relative;
+    margin-bottom: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.example {
+    color: #e74c3c;
+    font-family: 'Ubuntu Mono';
+    font-size: 0.75em;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    list-style: none;
+}
+
+p.example {
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
