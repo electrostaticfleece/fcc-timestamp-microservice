@@ -1,0 +1,13 @@
+{
+  "name": "tsms00",
+  "version": "1.0.0",
+  "description": "A timestamp microservice for Free Code Camp",
+  "main": "server.js",
+  "repository": "",
+  "author": "Trevor W",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
